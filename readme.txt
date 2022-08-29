@@ -6,7 +6,7 @@ https://www.bilibili.com/video/BV1Nf4y117W6
 
 
 分支及作用：
-master:主分支，作用暂无。
+main:主分支，作用暂无。
 banner:启动画面
 config:配置项的读取和使用。
 data:数据库加载和使用
